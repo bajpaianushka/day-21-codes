@@ -2,7 +2,7 @@
 #include <math.h>
 
 int main() {
-	int n = 1234;
+	int n = 1001;
 	int first, last, digits, middle, swapped;
 
 	last = n % 10;
